@@ -1,7 +1,7 @@
-Playback of a TAS on a platform
+Playback of a TAS on the original platform
 
-- https://tasvideos.org/ConsoleVerificationGuide
+- [TASVideos.org Console Verification Guide](https://tasvideos.org/ConsoleVerificationGuide)
 
-- https://tasvideos.org/ConsoleVerificationTests
+- [TASVideos.org Console Verification Tests](https://tasvideos.org/ConsoleVerificationTests)
 
-- https://tasvideos.org/ConsoleVerifiedMovies
+- [TASVideos.org Console Verified Movies](https://tasvideos.org/ConsoleVerifiedMovies)

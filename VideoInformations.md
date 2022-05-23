@@ -1,7 +1,7 @@
 Video Statistics of TASes
 
 # Youtube TASVideosChannel
-- https://socialblade.com/youtube/user/tasvideoschannel
+- (https://socialblade.com/youtube/user/tasvideoschannel)
 
 - [Most Viewed and Commented Videos](https://socialblade.com/youtube/user/tasvideoschannel/videos/mostviewed)
 
@@ -17,22 +17,22 @@ Video Statistics of TASes
 
 # YouTube feos tas
 
-- https://www.youtube.com/channel/UCTpiOTdYWl_oOzC3ZPYsu8A
+- (https://www.youtube.com/channel/UCTpiOTdYWl_oOzC3ZPYsu8A)
 
-- https://socialblade.com/youtube/c/feostas/videos/mostviewed
+- (https://socialblade.com/youtube/c/feostas/videos/mostviewed)
 
-- https://socialblade.com/youtube/c/swordlesslink/videos/mostviewed
+- (https://socialblade.com/youtube/c/swordlesslink/videos/mostviewed)
 
-- https://socialblade.com/youtube/c/brandonevans211/videos/mostviewed
+- (https://socialblade.com/youtube/c/brandonevans211/videos/mostviewed)
 
-- https://socialblade.com/youtube/c/nahoc/videos/mostviewed
+- (https://socialblade.com/youtube/c/nahoc/videos/mostviewed)
 
-- https://socialblade.com/youtube/user/omnipotententity/videos/mostviewed
+- (https://socialblade.com/youtube/user/omnipotententity/videos/mostviewed)
 
-- https://socialblade.com/youtube/user/dacicus/videos/mostviewed
+- (https://socialblade.com/youtube/user/dacicus/videos/mostviewed)
 
-- https://socialblade.com/youtube/c/nahoc/videos/mostviewed
+- (https://socialblade.com/youtube/c/nahoc/videos/mostviewed)
 
-- https://socialblade.com/youtube/user/nitrogenesistas/videos/mostviewed
+- (https://socialblade.com/youtube/user/nitrogenesistas/videos/mostviewed)
 
-- https://socialblade.com/youtube/user/tasvideoschannel/otherchans/views/featured
+- (https://socialblade.com/youtube/user/tasvideoschannel/otherchans/views/featured)

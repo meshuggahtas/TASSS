@@ -2,16 +2,16 @@ List of suggested online and offline tools for TASing activities
 
 # Online Search Engines
 
-- (https://en.wikipedia.org/wiki/Comparison_of_web_search_engines)
-- (https://restoreprivacy.com/private-search-engine/)
+- [Wikipedia Comparison of Web Search Engines](https://en.wikipedia.org/wiki/Comparison_of_web_search_engines)
+- [RestorePrivacy.com - Private Search Engines)(https://restoreprivacy.com/private-search-engine/)
 
 # Online Search Tools
 - https://library.unimelb.edu.au/search-tools
 
 # Mathematics
 
-- https://www.fxsolver.com/
-- https://www.symbolab.com/solver
+- [fxSolver ](https://www.fxsolver.com/)
+- (https://www.symbolab.com/solver)
 
 
 # Regexp - Regular Expressions
@@ -26,14 +26,14 @@ List of suggested online and offline tools for TASing activities
 
 * [Orange Data Mining](https://orangedatamining.com/) - Free & open-source
 
-* [https://datamelt.org/|DataMelt] - Free & open-source (TODO is it? It says so but couldn't find the sources)
+* [DataMelt](https://datamelt.org/|DataMelt) - Free & open-source (TODO is it? It says so but couldn't find the sources)
 
 
 ## Statistics
 
 - [JASP](https://jasp-stats.org/) - Free & open-source
 
-- [https://www.sofastatistics.com/home.php|SOFA] - Free & open-source
+- [SOFA](https://www.sofastatistics.com/home.php) - Free & open-source
 
 # Emulators
 
@@ -43,7 +43,7 @@ List of suggested online and offline tools for TASing activities
 
 ## Windows
 
-- [https://docs.microsoft.com/en-us/sysinternals/|Sysinternals] - Advanced system utilities and technical information
+- [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - Advanced system utilities and technical information
 
 # Translating 
 
@@ -61,8 +61,8 @@ Optical Character Recognition and other helpful guides
 
 ! Video Games
 
-- [JapaneseResources](https://tasvideos.org/JapaneseResources)
-- [JapaneseFantasyElements](https://tasvideos.org/JapaneseFantasyElements)
+- [TASVideos.org Japanese Resources](https://tasvideos.org/JapaneseResources)
+- [TASVideos.org Japanese Fantasy Elements](https://tasvideos.org/JapaneseFantasyElements)
 - TODO Consider mentioning fan made translations
 
 !!! Alternatives

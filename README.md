@@ -1,17 +1,16 @@
-# Tool-Assisted Speedrunning & Superplays Science - TASSS
+Documenting the knowledge and history of Tool-Assisted Speedrunning & Superplays
 
-Documenting knowledge and the history of Tool-Assisted Speedrunning & Superplays
-
-CC0 1.0 License for all hosted content
+CC0 1.0 license for content hosted in this repository/site
 
 # Project Information
 ## Features
-- Open-Access, 100% Free & No Ads
+- Open-Access - 100% Free & No Ads
 - Ethical and reproducible researches complying with laws and regulations
-- Independent (non-affiliated) and unbiased
+- Independent & non-affiliated
+- Unbiased
 
 ## Goals
-- Preservation of TASes digital art form / video game art
+- Preservation of TASes as a digital art form
 - Collecting and documenting all public information organized in a single place
 
 ## Guidelines

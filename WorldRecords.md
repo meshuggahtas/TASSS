@@ -28,7 +28,7 @@ Tool-Assisted Speedrunning World Records
 ## Milestones
 
 ### Longest-non-obsoleted movies 
-- https://tasvideos.org/MovieStatistics#LongestNonObsoletedMovies
+- (https://tasvideos.org/MovieStatistics#LongestNonObsoletedMovies)
 
 ## Ratings
 - Records @ [MovieStatistics#RatingData] 
@@ -42,16 +42,16 @@ Tool-assisted Speedrunning is unfortunately not accepted for submitting.
 
 - Fastest completion (monitored through Speedrun.com)
 - Highest score (sourced from Twin Galaxies)
-- https://www.guinnessworldrecords.com/world-records/435377-fastest-tool-assisted-speed-run
-- https://en.wikipedia.org/wiki/Guinness_World_Records
-- https://en.wikipedia.org/wiki/Guinness_World_Records#Gamer's_edition
-- https://www.guinnessworldrecords.com/records/the-application-process/reasons-applications-are-rejected
-- https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-record-formats
-- https://en.wikipedia.org/wiki/Twin_Galaxies#Cheating_controversies
+- (https://www.guinnessworldrecords.com/world-records/435377-fastest-tool-assisted-speed-run)
+- (https://en.wikipedia.org/wiki/Guinness_World_Records)
+- (https://en.wikipedia.org/wiki/Guinness_World_Records#Gamer's_edition)
+- (https://www.guinnessworldrecords.com/records/the-application-process/reasons-applications-are-rejected)
+- (https://www.guinnessworldrecords.com/records/what-makes-a-guinness-world-records-record-title/guide-to-record-formats)
+- (https://en.wikipedia.org/wiki/Twin_Galaxies#Cheating_controversies)
 
 ## Olympics
-- https://en.wikipedia.org/wiki/Olympic_Games
-- https://en.wikipedia.org/wiki/Olympic_Games#Controversies
+- (https://en.wikipedia.org/wiki/Olympic_Games)
+- (https://en.wikipedia.org/wiki/Olympic_Games#Controversies)
 
 # TODO
 - Consider calling "tests" something different - the action of a TASer going back to an earlier point and changing input to see the outcome
