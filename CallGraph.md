@@ -1,3 +1,0 @@
-- https://en.wikipedia.org/wiki/Call_graph
-- https://github.com/koknat/callGraph
-- https://github.com/wala/WALA

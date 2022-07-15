@@ -22,11 +22,17 @@ List of suggested online and offline tools for TASing activities
 
 
 
-!!! Data Mining
+# Data Mining
 
-* [Orange Data Mining](https://orangedatamining.com/) - Free & open-source
+- [Orange Data Mining](https://orangedatamining.com/) - Free & open-source
 
-* [DataMelt](https://datamelt.org/|DataMelt) - Free & open-source (TODO is it? It says so but couldn't find the sources)
+- [DataMelt](https://datamelt.org/|DataMelt) - Free & open-source (TODO is it? It says so but couldn't find the sources)
+
+# Static program analysis
+
+- https://en.wikipedia.org/wiki/Call_graph
+- https://github.com/koknat/callGraph
+- https://github.com/wala/WALA
 
 
 ## Statistics
@@ -47,25 +53,25 @@ List of suggested online and offline tools for TASing activities
 
 # Translating 
 
-# Visual & OCR
+## Visual & OCR
 
 Optical Character Recognition and other helpful guides
 
 - [Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/) Unicode Character Recognition by drawing
 
-# Text & Webpages
+## Text & Webpages
 
 - [Google Translate](https://translate.google.com/) - Free & supports images
 - [DeepL Translator](https://www.deepl.com/translator) - Limited but better translation
 - Browsers have built-in translating feature
 
-! Video Games
+## Video Games
 
 - [TASVideos.org Japanese Resources](https://tasvideos.org/JapaneseResources)
 - [TASVideos.org Japanese Fantasy Elements](https://tasvideos.org/JapaneseFantasyElements)
 - TODO Consider mentioning fan made translations
 
-!!! Alternatives
+# Alternatives
 
 - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
 

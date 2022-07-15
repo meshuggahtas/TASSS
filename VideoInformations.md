@@ -1,11 +1,12 @@
 Video Statistics of TASes
 
-# Youtube TASVideosChannel
-- (https://socialblade.com/youtube/user/tasvideoschannel)
+# YouTube
+
+TASVideosChannel](https://socialblade.com/youtube/user/tasvideoschannel)
 
 - [Most Viewed and Commented Videos](https://socialblade.com/youtube/user/tasvideoschannel/videos/mostviewed)
 
-# Youtube WebNations
+WebNations
 - [Most Viewed and Commented Videos](https://socialblade.com/youtube/c/webnations/videos/mostviewed)
 
 # TODO
@@ -15,9 +16,7 @@ Video Statistics of TASes
 
 - add youtube channel names and links
 
-# YouTube feos tas
-
-- (https://www.youtube.com/channel/UCTpiOTdYWl_oOzC3ZPYsu8A)
+[feos tas](https://www.youtube.com/channel/UCTpiOTdYWl_oOzC3ZPYsu8A)
 
 - (https://socialblade.com/youtube/c/feostas/videos/mostviewed)
 

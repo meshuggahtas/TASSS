@@ -1,3 +1,13 @@
+Understanding and overcoming the root of potential problems to maximize audience experience of watching a TAS
+
+The audience has the following options to watch a TAS, make sure to get your message across the media
+
+- Watching on 
+  - Mobile phone
+  - TV
+  - Computer monitor
+  - Projection
+
 List of factors affecting the audience 
 
 # Hardware
@@ -38,17 +48,8 @@ List of factors affecting the audience
 
 ### YouTube
 
-# TODO
-- intention: understanding and overcoming the root of potential problems to maximize audience experience of watching a TAS
+# Media Types
 
-- playing back on console --> original hardware features
-
-- console verification --> leds
-
-The audience has the following options to watch a TAS, make sure to get your message across the media
-
-- Watching on 
-  - Mobile phone
-  - TV
-  - Computer monitor
-  - Projection
+## Console Verification Video
+- LEDs
+- Original Hardware features

@@ -1,4 +1,4 @@
-# Primary
+# Quality Assurance
 
 ## Software Tester
 - Video Games
@@ -8,7 +8,7 @@
 
 ---
 
-# Secondary
+# Programming
 
 ## Software Developer
 - Emulators
