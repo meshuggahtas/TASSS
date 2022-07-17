@@ -43,7 +43,7 @@ List of suggested online and offline tools for TASing activities
 
 # Emulators
 
-* TODO what tools to list here
+- TODO what tools to list here
 
 # OS-specific
 

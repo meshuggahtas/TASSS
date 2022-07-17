@@ -13,7 +13,7 @@ Emulator used for this guide: BizHawk 2.3.1
 
 # TASing tips
 ;Left+Right/Up+Down:Most games doesn’t expects these but accept it
-* Widget 
+- Widget 
 *
 
 # Links
@@ -33,50 +33,50 @@ Magazines
 
 # Miscellaneous notes
 Note: none of these are currently supported by BizHawk!
-* 1-2 frame difference when loading (lag frames) between NESHawk and FCEUX 2.2.3 sometimes at random points (any console tests?)
+- 1-2 frame difference when loading (lag frames) between NESHawk and FCEUX 2.2.3 sometimes at random points (any console tests?)
 laggy games complete disasters, what is the situation (NES Jackal, Rockin Kats)?
 cpu/ppu cycle dependent games (Indiana Jones temple of doom, Narc, circus caper)?
 
-* Cart swapping
+- Cart swapping
 
 FDS disk bug? http://tasvideos.org/userfiles/info/40067147588770269
 
-! Emulator settings
+# Emulator settings
 
 
 
-! TASing tips
+# TASing tips
 
 
 
-! Game workflow
+# Game workflow
 
 
 
-! Miscellaneous notes
+# Miscellaneous notes
 
 
 
-! Links
+# Links
 
-* [https://en.wikipedia.org/wiki/Nintendo_Entertainment_System|Wikipedia Nintendo Entertainment System]
+- [https://en.wikipedia.org/wiki/Nintendo_Entertainment_System|Wikipedia Nintendo Entertainment System]
 
 
 
-! TODOs
+# TODOs
 
-* figure out what to do with blacklisted links without conflicting with TASVideos rules
+- figure out what to do with blacklisted links without conflicting with TASVideos rules
 
-* copy paste TASSS 0.2
+- copy paste TASSS 0.2
 
-* bank switching
+- bank switching
 
-* plastic piece
+- plastic piece
 
-* U+D, L+R
+- U+D, L+R
 
-* NES dev manual infos
+- NES dev manual infos
 
-* bootlegs
+- bootlegs
 
-* kiosk
+- kiosk

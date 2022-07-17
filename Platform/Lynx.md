@@ -2,23 +2,23 @@
 
 Emulator used for this guide: BizHawk 2.3
 
-! Emulator settings
+# Emulator settings
 ;None:
 
-! Missing emulator features
-* ComLynx - 2 or more Lynxes connected for multiplayer games
-* Debugging tools (trace logger and debugger)
+# Missing emulator features
+- ComLynx - 2 or more Lynxes connected for multiplayer games
+- Debugging tools (trace logger and debugger)
 Note: [http://handy.sourceforge.net/index.htm|Handy emulator] ([Bizhawk/AtariLynx|Lynx core used by BizHawk]) has these tools
 
-! Input combinations
+# Input combinations
 ;Option 1 + Pause = 1+p = Restarts the game:
-* Returns to second title screen after 0~50 lag frames (game dependent)
-* Usable after first title screen; sometimes only in-game (game dependent)
+- Returns to second title screen after 0~50 lag frames (game dependent)
+- Usable after first title screen; sometimes only in-game (game dependent)
 ;Option 2 + Pause = 2+p = Flips the screen and reverses controls:
-* Your input will be reversed!
-* Simply flipping the screen won't save time
+- Your input will be reversed!
+- Simply flipping the screen won't save time
 
-! Game workflow
+# Game workflow
 ;First title screen:
 *Teaser screen displayed for 172~186 frames (game dependent)
 *Pressing a button makes the screen go black but still need to wait for a fixed amount of time
@@ -33,7 +33,7 @@ Note: [http://handy.sourceforge.net/index.htm|Handy emulator] ([Bizhawk/AtariLyn
 *Try A/B/Option 1 with or without spaces (A,B,1...) for starting / speeding up (game dependent)
 *For entertainment purposes, don't disable the music
 
-! TASing tips
+# TASing tips
 ;Disabling music (most games):
 *Some games can run faster with music disabled, saving you from lag frames (game dependent)
 *Right at the menu screen you can disable music usually with Option 2 (2); sometimes you need to pause the game first (game dependent)
@@ -46,13 +46,13 @@ Note: [http://handy.sourceforge.net/index.htm|Handy emulator] ([Bizhawk/AtariLyn
 **Pressing UD or LR and some other buttons (not all combinations) either crashes the game or let's it restart after a few seconds. I'm not sure but I think there was a Lynx version without a "middle pivot" http://www.old-computers.com/museum/photos/atari_lynx2_1.jpg 
 **Unlike in BizHawk, Handy 0.95  windows contantly popping up "C6502::Update() - Illegal opcode (33) at PC=$0065."
 
-! Links
-* [https://en.wikipedia.org/wiki/Atari_Lynx|Wikipedia Atari Lynx]
-* [https://gamefaqs.gamespot.com/lynx|GameFAQs Lynx]
-* [http://www.monlynx.de/lynx/lynxdoc.html|Lynx technical documentation]
+# Links
+- [https://en.wikipedia.org/wiki/Atari_Lynx|Wikipedia Atari Lynx]
+- [https://gamefaqs.gamespot.com/lynx|GameFAQs Lynx]
+- [http://www.monlynx.de/lynx/lynxdoc.html|Lynx technical documentation]
 
-! TODO
-* Missing emulator features: __needs investigation__: sub frames input on console?
+# TODO
+- Missing emulator features: __needs investigation__: sub frames input on console?
 
-! Miscellaneous notes
-* Cart swapping is not investigated at all. No information about having a "cart lock" (plastic piece preventing cart swapping).
+# Miscellaneous notes
+- Cart swapping is not investigated at all. No information about having a "cart lock" (plastic piece preventing cart swapping).

@@ -1,31 +1,31 @@
 Emulator used for this guide: BizHawk 2.3
 
 # Emulator settings
-* Note: Changing any Non-Sync setting will affect your movie's GreenZone file. If you don't want to lose it, don't change it neither outside of TASing!
-* Note: A savestate is 1.00 MB, make sure to increase it when using TAStudio if you would like more savestates than 510! 
+- Note: Changing any Non-Sync setting will affect your movie's GreenZone file. If you don't want to lose it, don't change it neither outside of TASing!
+- Note: A savestate is 1.00 MB, make sure to increase it when using TAStudio if you would like more savestates than 510# 
 ;Non-Sync settings:
-* You can customize ThreeDeeMode and the anaglyph colors.
-* Advised to change the red shade to avoid any potential eye problems in the long run.
+- You can customize ThreeDeeMode and the anaglyph colors.
+- Advised to change the red shade to avoid any potential eye problems in the long run.
 ;Sync settings:
-* Leave them on __False__
+- Leave them on __False__
 
 # Missing emulator features
-* Debugging tools (trace logger and debugger)
+- Debugging tools (trace logger and debugger)
 
 # Input combinations
 ;L+R+A+B+Select+Start = BAlrsS = Reset game:
-* [https://paste.ee/p/PZeO5|Cyorter's list of reset input per titles]
+- [https://paste.ee/p/PZeO5|Cyorter's list of reset input per titles]
 ;2nd pad Left, B, Down, Up, A = l,B,d,u,A = Alignment Grid:
-* Doesn't useful in a TAS
-* Usually only possible after Virtual Boy logo and before Game menus
+- Doesn't useful in a TAS
+- Usually only possible after Virtual Boy logo and before Game menus
 ;Start, Select / Start / A = Virtual Boy logo:
-* This screen is used for setting IPD and Focus, irrelevant for a TAS.
-* Game dependent combination
-* According to the manual, you won't lose your progress in the game. However you also don't progress while you are in this state.
+- This screen is used for setting IPD and Focus, irrelevant for a TAS.
+- Game dependent combination
+- According to the manual, you won't lose your progress in the game. However you also don't progress while you are in this state.
 
 # Game workflow
-* The following amazing list made by [=forum/r/9399|Cyorter]. Original format available [https://paste.ee/p/b8FGB|here]
-* A few (~7) games are able to press Right and A at the same frame to avoid losing time. Only relevant if your TAS is going to be longer than 15~30 minutes (game dependent).
+- The following amazing list made by [=forum/r/9399|Cyorter]. Original format available [https://paste.ee/p/b8FGB|here]
+- A few (~7) games are able to press Right and A at the same frame to avoid losing time. Only relevant if your TAS is going to be longer than 15~30 minutes (game dependent).
 
 *3-D Tetris
 **Important note: Press A or Start on frame 4 - 109.
@@ -78,7 +78,7 @@ Emulator used for this guide: BizHawk 2.3
 **Title screen: Press A or Start on frame 266, then Start on 373.
 **Time to automatic pause: 15 minutes.
 
-*Panic Bomber / Tobidase! Panibomb
+*Panic Bomber / Tobidase# Panibomb
 **Important note: Press A or Start on frame 117.
 **Virtual Boy Logo: Press A or Start on frame 137.
 **Automatic pause: Press Right + A or Start on frame 158.
@@ -171,12 +171,12 @@ Emulator used for this guide: BizHawk 2.3
 **Title screen: Press A or Start on frame 383.
 
 # Links
-* [https://en.wikipedia.org/wiki/Virtual_Boy|Wikipedia Virtual Boy]
-* [https://gamefaqs.gamespot.com/virtualboy|GameFAQs Virtual Boy]
-* [https://www.planetvb.com/modules/tech/?sec=docs|Planet Virtual Boy documents] - Collection of great technical documentations, I recommend to read the __VB Sacred Tech Scroll__ under "Inofficial" ones
+- [https://en.wikipedia.org/wiki/Virtual_Boy|Wikipedia Virtual Boy]
+- [https://gamefaqs.gamespot.com/virtualboy|GameFAQs Virtual Boy]
+- [https://www.planetvb.com/modules/tech/?sec=docs|Planet Virtual Boy documents] - Collection of great technical documentations, I recommend to read the __VB Sacred Tech Scroll__ under "Inofficial" ones
 
 # Miscellaneous notes
-* Games might poll input multiple times within a single frame.
-** TODO: test it out. 
-* Cart swapping not investigated at all. 
-* No "cart lock" (plastic piece preventing cart swapping).
+- Games might poll input multiple times within a single frame.
+*- TODO: test it out. 
+- Cart swapping not investigated at all. 
+- No "cart lock" (plastic piece preventing cart swapping).

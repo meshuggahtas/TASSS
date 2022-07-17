@@ -2,15 +2,15 @@
 
 
 
-!! Emulator settings
+!# Emulator settings
 
 
 
-!! Game workflow
+!# Game workflow
 
 
 
-!! TASing tips
+!# TASing tips
 
 ;Tab + Space: Cycling through buttons with Tab key and selecting with Space key
 
@@ -20,91 +20,91 @@
 
 
 
-!! Tools
+!# Tools
 
-! Reverse Engineering
+# Reverse Engineering
 
-* Adobe Flash Player Debugger TODO find downloadable link
+- Adobe Flash Player Debugger TODO find downloadable link
 
-! Decompiler
+# Decompiler
 
-* https://github.com/jindrapetrik/jpexs-decompiler - Free and open-source
+- https://github.com/jindrapetrik/jpexs-decompiler - Free and open-source
 
-* https://www.sothink.com/product/flashdecompiler/ - Paid
+- https://www.sothink.com/product/flashdecompiler/ - Paid
 
-! Disassembler
+# Disassembler
 
-* Flasm
-
-
-
-!! Links
+- Flasm
 
 
 
-!! Miscellaneous notes
+!# Links
 
 
 
-!! TODO
+!# Miscellaneous notes
 
-* Elaborations
 
-* Check out and list more tools from https://openswffile.com/tools.html
 
-* Local Shared Object
+!# TODO
 
-* resolution tricks
+- Elaborations
 
-* using platforms to run flash like PSP, Dreamcast, Wii etc
+- Check out and list more tools from https://openswffile.com/tools.html
 
-* file system tricks
+- Local Shared Object
 
-** local storage size
+- resolution tricks
 
-** disabling access
+- using platforms to run flash like PSP, Dreamcast, Wii etc
 
-* floating point error problem
+- file system tricks
 
-* SWFinvestigator
+*- local storage size
 
-* owasp flash
+*- disabling access
 
-* old flash player versions? check out same link at earlier date. stupid adobe, there is no version string for the user at about.
+- floating point error problem
 
-* http://web.archive.org/web/20220331041148/https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
+- SWFinvestigator
 
-* http://web.archive.org/web/20220331041154/https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe
+- owasp flash
 
-* swf file format https://en.wikipedia.org/wiki/SWF
+- old flash player versions? check out same link at earlier date. stupid adobe, there is no version string for the user at about.
 
-* right click menu tricks
+- http://web.archive.org/web/20220331041148/https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
 
-* consider linking not blacklisted hacking forums and guides
+- http://web.archive.org/web/20220331041154/https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa_debug.exe
 
-* old computer tricks
+- swf file format https://en.wikipedia.org/wiki/SWF
 
-* lag reduction:
+- right click menu tricks
 
-** zooming in
+- consider linking not blacklisted hacking forums and guides
 
-** zooming out
+- old computer tricks
 
-** quality level
+- lag reduction:
 
-** change browser/player/device 
+*- zooming in
 
-** hardware acceleration
+*- zooming out
 
-* moving mouse out of boundaries
+*- quality level
 
-* bypass/fool flash version check
+*- change browser/player/device 
 
-* hacking "Protect from import" swf files
+*- hardware acceleration
 
-* https://github.com/ruffle-rs/ruffle/wiki/Helpful-Resources
+- moving mouse out of boundaries
 
-* https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle
+- bypass/fool flash version check
 
-* checkout old sites I've played kongregate armorgames newgrounds and miniclip
+- hacking "Protect from import" swf files
+
+- https://github.com/ruffle-rs/ruffle/wiki/Helpful-Resources
+
+- https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle
+
+- checkout old sites I've played kongregate armorgames newgrounds and miniclip
 
