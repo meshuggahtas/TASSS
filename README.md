@@ -4,9 +4,10 @@ CC0 1.0 license for content hosted in this repository/site
 
 # Project Information
 ## Features
-- Open-Access - 100% Free & No Ads
+- Open-Access
+- 100% Free & No Ads
 - Ethical and reproducible researches complying with laws and regulations
-- Independent & non-affiliated
+- Totally Independent & Non-Affiliated
 - Unbiased
 
 ## Goals
