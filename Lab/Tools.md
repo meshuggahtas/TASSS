@@ -74,5 +74,29 @@ Optical Character Recognition and other helpful guides
 # Alternatives
 
 - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
+- https://www.fosshub.com/
+- https://sourceforge.net/
 
 - add note to alternatives about what features to look for and how to help deciding use of software over the other ones
+
+* Include payment information like alternativeto (Free, Freemium, Proprietary, Open-Source, Paid)
+
+# TODO
+- Big Data and other
+- LaTeX
+- Statistical Analysis
+
+- Flowchart, Diagram
+- https://www.tecmint.com/best-flowchart-and-diagramming-software-for-linux/
+
+- https://restoreprivacy.com/unblock-websites/
+
+- https://superset.apache.org/
+- https://grafana.com/
+- https://www.rawgraphs.io/
+- https://marketingplatform.google.com/about/data-studio/
+- https://eclipse.github.io/birt-website/
+- https://www.knime.com/knime-analytics-platform
+- https://powerbi.microsoft.com/en-us/desktop/
+
+- wireshark
