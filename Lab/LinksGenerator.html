@@ -1,0 +1,56 @@
+<input id="text" type=text placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
+<button onclick="Links()">Generate Links</button>
+<br>
+<br>
+
+<script>
+function Links() {
+    document.body.appendChild(document.createTextNode("Wikis"));
+    document.body.appendChild(document.createElement("br"));
+    
+    let anchor = document.createElement("a");
+    let query = document.getElementById("text").value;
+    
+    anchor.appendChild(document.createTextNode("Wikipedia Search - "));
+    anchor.href = "https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1";
+    document.body.appendChild(document.createElement("br"));
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+    
+    anchor = document.createElement("a");
+    anchor.appendChild(document.createTextNode("ROMhacking.net - Search for Hacks and Others using Google"));
+    anchor.href = "https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net";
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+    
+    anchor = document.createElement("a");
+    anchor.appendChild(document.createTextNode("tcrf.net - Search for Video Game Researches"));
+    anchor.href = "https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&";
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+    
+    document.body.appendChild(document.createElement("br"));
+    document.body.appendChild(document.createTextNode("Speedruns (TASes and RTAs)"));
+    document.body.appendChild(document.createElement("br"));
+    document.body.appendChild(document.createElement("br"));
+    
+    anchor = document.createElement("a");
+    anchor.appendChild(document.createTextNode("tasvideos.org - Search for TASes"));
+    anchor.href = "https://tasvideos.org/Search/Index?SearchTerms="+query;
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+    
+    anchor = document.createElement("a");
+    anchor.appendChild(document.createTextNode("speedrun.com - Search for RTA Speedruns using Google"));
+    anchor.href = "https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.speedrun.com";
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+    
+    
+    anchor = document.createElement("a");
+    anchor.appendChild(document.createTextNode("nicovideo.jp - Search for TASes using Google"));
+    anchor.href = "https://www.google.com/search?q=site%3Anicovideo.jp+"+query+"+TAS";
+    document.body.appendChild(anchor);
+    document.body.appendChild(document.createElement("br"));
+}
+</script>
