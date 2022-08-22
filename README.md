@@ -1,6 +1,6 @@
 Documenting the knowledge and history of Tool-Assisted Speedrunning & Superplays
 
-CC0 1.0 license for content hosted in this repository/site unless noted specifically
+CC0 1.0 license for all hosted content
 
 # Project Information
 ## Features

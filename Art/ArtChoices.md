@@ -4,3 +4,4 @@ Consider the following before deciding:
 - Choices: Are the choices made will make it more entertaining to watch it?
 
 - [Wikipedia - Computer Art](https://en.wikipedia.org/wiki/Computer_art)
+- [TV Tropes - Speedrun](https://tvtropes.org/pmwiki/pmwiki.php/Main/Speedrun)

@@ -1,0 +1,2 @@
+- [Wikipedia - Game controller](https://en.wikipedia.org/wiki/Game_controller)
+- [Wikipedia - Input device](https://en.wikipedia.org/wiki/Input_device)

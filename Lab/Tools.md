@@ -3,14 +3,14 @@ List of suggested online and offline tools for TASing activities
 # Online Search Engines
 
 - [Wikipedia Comparison of Web Search Engines](https://en.wikipedia.org/wiki/Comparison_of_web_search_engines)
-- [RestorePrivacy.com - Private Search Engines)(https://restoreprivacy.com/private-search-engine/)
+- [RestorePrivacy.com - Private Search Engines](https://restoreprivacy.com/private-search-engine/)
 
 # Online Search Tools
 - https://library.unimelb.edu.au/search-tools
 
 # Mathematics
 
-- [fxSolver ](https://www.fxsolver.com/)
+- [fxSolver](https://www.fxsolver.com/)
 - (https://www.symbolab.com/solver)
 
 
