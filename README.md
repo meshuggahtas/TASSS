@@ -64,3 +64,6 @@ Contribution Opportunities:
 ## Transforming content to other format
 - [Pandoc - Universal markup converter](https://github.com/jgm/pandoc)
 - [Pandoc online](https://pandoc.org/try/?text=&from=markdown&to=mediawiki)
+
+## Bandwidth Related
+- https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits
