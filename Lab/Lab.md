@@ -4,13 +4,13 @@ List of software and hardware used in TASing environments
 
 ## Single File Scan
 
-- (VirusTotal)[https://www.virustotal.com/gui/home/upload]
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ## AntiVirus
 
-- https://restoreprivacy.com/antivirus-privacy/
-- [https://www.trendmicro.com/en_us/forHome/products/housecall.html|TrendMicro HouseCall] - Free
-- [https://www.clamav.net/|ClamAV] - Free & Open-Source
+- (https://restoreprivacy.com/antivirus-privacy/)
+- [TrendMicro HouseCall](https://www.trendmicro.com/en_us/forHome/products/housecall.html) - Free
+- [ClamAV](https://www.clamav.net/) - Free & Open-Source
 - Google search for antivirus software on university (.edu) sites: https://www.google.com/search?q=antivirus+site%253A.edu
 
 # Environment
@@ -19,13 +19,13 @@ List of software and hardware used in TASing environments
 
 Internet required for interacting with the TASVideos community and setting up majority of emulators.
 
-- https://www.speedtest.net/global-index/united-states#fixed
+- [Speedtest.net - Global Index](https://www.speedtest.net/global-index/)
 
 # Softwares
 
 ## Operating System
 
-- [EmulatorResources#SupportedOperatingSystems]
+- [TASVideos.org - Emulator Resources # Supported Operating Systems](https://tasvideos.org/EmulatorResources#SupportedOperatingSystems)
 
 ## Browsers
 
@@ -41,17 +41,17 @@ Considerations:
 
 Excel / Spreadsheets for documenting and calculating.
 
-- [https://docs.google.com/spreadsheets/u/0/|Google Sheets] - Free
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/) - Free
 
-- [https://www.libreoffice.org/|LibreOffice Calc] - Free & Open-Source
+- [LibreOffice Calc](https://www.libreoffice.org/) - Free & Open-Source
 
-- [https://www.microsoft.com/en-us/microsoft-365/excel|Microsoft Excel]
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### Notes
 
 Taking transformable digital notes
 
-- [Downloads#Tools]
+- [TASVideos.org - Downloads # Tools](https://tasvideos.org/Downloads#Tools)
 - Notepad++
 - Google Docs
 - Grammarly
@@ -80,7 +80,7 @@ Taking transformable digital notes
 
 # Android
 
-- [https://f-droid.org/en/|F-Droid] - Free & Open Source Android App Repository
+- [F-Droid](https://f-droid.org/en/) - Free & Open Source Android App Repository
 - Google Play <-- https://playsearch.kaki87.net/
 
 
@@ -90,13 +90,6 @@ Taking transformable digital notes
 ## Linux
 
 # https://www.fosslinux.com/category/downloads
-
-
-
-## Relevant Pages 
-
-# Special and online tools [HomePages/MESHUGGAH/ToolsOfTheTrade]
-
 
 # Notes
 
