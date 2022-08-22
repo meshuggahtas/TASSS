@@ -1,10 +1,3 @@
----
-# example 404.md
-
-layout: default
-permalink: /404.html
----
-
 <ul>
   {% assign mypages = site.pages | sort: "order" %}
     {% for page in mypages %}
