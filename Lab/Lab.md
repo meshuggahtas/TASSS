@@ -1,4 +1,4 @@
-List of software and hardware used in TASing environments
+List of software used in TASing environments
 
 # Security
 
@@ -59,33 +59,17 @@ Taking transformable digital notes
 
 ## Mediaplayers
 
-- [Downloads#MediaPlayers]
+- [TASVideos.org - Downloads # Media Players](https://tasvideos.org/Downloads#MediaPlayers]
 
 ## Virtualization
 
-
 # Mobile Devices
 
-## Browser
-
-## Calculator
-
 - Alternatives for Android on AppBrain https://www.appbrain.com/search?q=calculator&src=header
-
-## Documentation
-
-# Alternatives
-
 - https://www.slant.co/
-
-# Android
-
 - [F-Droid](https://f-droid.org/en/) - Free & Open Source Android App Repository
 - Google Play <-- https://playsearch.kaki87.net/
 
-
-
-# Lists
 
 ## Linux
 
@@ -114,8 +98,6 @@ Taking transformable digital notes
   - Human Factor in Ergonomics + Physical Customization:
 
   - do it yourself overhead panels and battlestations
-
-  - requires health warning!!# 
 
 - add more alternatives
 

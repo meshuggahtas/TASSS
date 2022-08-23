@@ -5,10 +5,10 @@ Notes for TASers:
 The audience has the following options to watch a TAS:
 
 - Watching on 
-- - Mobile phone
-- - TV
-- - Computer monitor
-- - Projection
+  - Mobile phone
+  - TV
+  - Computer monitor
+  - Projection
 
 List of factors affecting the audience:
 
@@ -23,14 +23,14 @@ List of factors affecting the audience:
 ### Audio
 - EQ
 - Device
-- - TV
-- - Speakers
-- - 
+  - TV
+  - Speakers
+  - 
 
 ## Other
 ### Visual
 - Device
-- - Mobile Phone
+  - Mobile Phone
 - Resolution
 - Technology
 
@@ -38,9 +38,9 @@ List of factors affecting the audience:
 - Quality
 - EQ
 - Device
-- - TV
-- - Speakers
-- - Headphones
+  - TV
+  - Speakers
+  - Headphones
 
 # Software
 

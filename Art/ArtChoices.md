@@ -3,5 +3,16 @@ Consider the following before deciding:
 - Quantity: How many opportunities are there?
 - Choices: Are the choices made will make it more entertaining to watch it?
 
+- To make sure to get your message across media, by understanding and overcoming potential problems to maximize audience experience of watching a TAS --> TODO insert Audience/Experience
+
+# Input File
+
+- File Name
+
+
+# In-Game
+
+
+# Links
 - [Wikipedia - Computer Art](https://en.wikipedia.org/wiki/Computer_art)
 - [TV Tropes - Speedrun](https://tvtropes.org/pmwiki/pmwiki.php/Main/Speedrun)
