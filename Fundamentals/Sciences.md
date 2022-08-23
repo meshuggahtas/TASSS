@@ -32,5 +32,11 @@ List of sciences and topics for advanced TASers
 - - Permutation
 - - Combinations
 
+https://en.wikipedia.org/wiki/Mathematics#Areas_of_mathematics
+https://en.wikipedia.org/wiki/Lists_of_mathematics_topics
+https://en.wikipedia.org/wiki/Outline_of_mathematics#Nature
+
+- https://docs.google.com/spreadsheets/d/110KXV1TevqpC67dm8fHilcKqIH63K5p1aRiIxwIYjZY/edit#gid=0 Private, non-shared directory
+
 # TODO
 - Reconsider page name
