@@ -27,3 +27,5 @@ Where
 Most expensive software bugs
 
 Test plan types
+
+Threat Modeling (STRIDE)

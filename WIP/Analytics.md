@@ -1,0 +1,4 @@
+- Prescriptive Analytics
+- Predictive Analytics
+- Diagnostic Analytics
+- Descriptive Analytics

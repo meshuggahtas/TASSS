@@ -1,3 +1,5 @@
+HTML
+
 # Emulator Settings
 
 Currently there is no accepted emulator for submitting TASes

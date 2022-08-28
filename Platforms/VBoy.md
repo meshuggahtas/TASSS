@@ -1,3 +1,5 @@
+Virtual Boy
+
 Emulator used for this guide: BizHawk 2.3
 
 # Emulator settings

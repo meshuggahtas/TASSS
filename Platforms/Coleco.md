@@ -1,5 +1,4 @@
-
-%%TOC%%
+ColecoVision
 
 Emulator used for this guide: BizHawk 2.3
 
@@ -34,6 +33,10 @@ Most of the time just visual glitches, rarely usable...
 # Links
 - [https://en.wikipedia.org/wiki/ColecoVision|Wikipedia ColecoVision]
 - [https://gamefaqs.gamespot.com/colecovision|GameFAQs ColecoVision]
+- http://www.colecovisionzone.com/index.html
+- https://www.colecoboxart.com/
+- http://www.colecovision.dk/index.htm
+- https://cvaddict.com/
 
 # TODO
 - Missing emulator features? subframes?

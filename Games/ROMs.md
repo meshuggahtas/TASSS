@@ -2,10 +2,17 @@
 
 # Archive.org
 - https://archive.org/search.php?query=rom&and[]=mediatype%3A%22collection%22
+- https://archive.org/search.php?query=ROM%20collection
 - https://archive.org/details/tosec
+- https://archive.org/details/softwarecapsules
 
 # Other
 - https://github.com/Igglybuff/awesome-piracy#roms
+- https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/
+- https://www.reddit.com/r/PiratedGames/wiki/megathread/
+
+# Homebrews
+https://pdroms.de/
 
 # Flash
 - [BlueMaxima's Flashpoint](https://bluemaxima.org/flashpoint/) is a collection of Adobe Flash and some other Web games
@@ -15,5 +22,4 @@
 
 # Legality of ROMs
 
-- ["I am a pirate - How to LEGALLY emulate games ft. Save The Hero / Sanni v3 + Raspberry Pi
-" by Linus Tech Tips](https://www.youtube.com/watch?v=jISrg3V9ubo)
+- ["I am a pirate - How to LEGALLY emulate games ft. Save The Hero / Sanni v3 + Raspberry Pi" by Linus Tech Tips](https://www.youtube.com/watch?v=jISrg3V9ubo)

@@ -1,3 +1,5 @@
+Nintendo Entertainment System
+
 Emulator used for this guide: BizHawk 2.3.1
 
 # Emulator settings

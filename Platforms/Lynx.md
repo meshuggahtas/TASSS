@@ -1,4 +1,4 @@
-%%TOC%%
+Lynx
 
 Emulator used for this guide: BizHawk 2.3
 

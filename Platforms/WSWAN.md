@@ -1,3 +1,5 @@
+WonderSwan
+
 # Emulator settings
 
 # TASing tips

@@ -1,25 +1,11 @@
-assembly ace code for parallax scrolling
-
 assembly ace strategies
 	jmp game ending routine
-	
-	
-	
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-benjamin franklin
-
-You will observe with concern how long a useful truth
-
- Isaac Asimov once said, “The saddest aspect of society right now is that science gathers knowledge faster than society gathers wisdom."
- 
----  0---|--- 10---|--- 20---|--- 30---|--- 40---|--- 50---|--- 60---|--- 70---|--- 80---|--- 90---|
-123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Taguchi method/approach
 
------------------------------------------------------------------------------------------------------------------------------------------
-seventh son
-terminal
+----------------------------------------------------------------------------------------------------------------------------------------
+
+www.stationx.net/sabsa/
+www.iso.org/standard/56742.html
+www.securityforum.org

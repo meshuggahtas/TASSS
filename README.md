@@ -27,6 +27,10 @@ This repository is hosted on GitHub, therefore you are agreeing their terms when
 ### Hosted contents
 
 ### Website links
+- Links to copyrighted material
+Do not request or post links to any illegal or copyrighted content. Top level domains are the only links permitted here, links that aren't top-level domains will be removed. (e.g. website.com = allowed, website.com/free-game-download.html = not allowed).
+
+Link shortners of any kind for any link are prohibited.
 
 ### Links
 Website links are collected from the following 2 sources:

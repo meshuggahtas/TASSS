@@ -1,6 +1,4 @@
-%%TOC%%
-
-
+Flash
 
 !# Emulator settings
 
