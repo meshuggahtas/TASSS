@@ -18,3 +18,91 @@ Consider the following before deciding:
 - [TV Tropes - Speedrun](https://tvtropes.org/pmwiki/pmwiki.php/Main/Speedrun)
 
 - https://docs.google.com/spreadsheets/d/14tzHnlWGlFd2X_oTi6Fw6qAM3-L6dlXq_0_tAzRpMQo/edit#gid=0 - Private, non-shared directory
+
+
+Timing related
+
+First possible moment
+
+Last possible moment
+
+Combo-master
+
+Combobreaker
+
+Synced to background music
+
+Synced to sound effects
+
+Ending input earlier
+
+Emotion related
+
+Speed related
+
+Failing
+
+Near fail
+
+Average
+
+Fastest with sacrifice
+
+Fastest as possible
+
+Comedic
+
+	
+	Excitement related
+	
+Win-Probability decrease / Handicap to make it more harder and impressive	
+	
+Sending a message	
+	
+	By removing walls
+	
+	By shooting
+	
+	Difficulty related
+	
+Prohibition of a button	
+	
+Prohibition of an action	
+	
+	Position related
+	
+Blocking a part of the background	
+	
+Blocking another character	
+	
+Jumping	
+	
+	Time wasting related
+	
+Telling a story	
+	
+Showing secrets	
+	
+Showing impossible moves	
+	
+Dancing	
+	
+References	
+	
+	Input file related
+	
+Movie name	
+	
+Metadata	
+	
+Input message	
+	
+File contents	
+	
+	Submission text related
+	
+Graphics	
+	
+Story	
+	
+Diary	

@@ -1,3 +1,7 @@
+# MIDI
+Generate MIDI from a TAS movie
+- For entertainment
+
 # Inputter / TAS Input Playback
 - virtual keyboard/mouse/controller device
 
