@@ -32,25 +32,12 @@ Do not request or post links to any illegal or copyrighted content. Top level do
 
 Link shortners of any kind for any link are prohibited.
 
-### Links
-Website links are collected from the following 2 sources:
-- [Google](https://www.google.com)
-- [Wikipedia](https://www.wikipedia.com)
-
-## Softwares Used
-### Downloading
-- qBittorrent
-### Documenting and Files
-- Total Commander
-- Notepad++
-- GitHub
-- Google Docs
-- Google Drive
-- Google Sheets
-- Chrome, Firefox
-- Zotero
-
 # Questions & Answers	
+## How to read?
+- GitHub https://github.com/meshuggahtas/TASSS
+- Checkout Git https://github.com/meshuggahtas/TASSS.git
+- In the future: GitHub Pages https://meshuggahtas.github.io/TASSS/
+
 ## How to contribute?
 The project is in the "uploading" phase, sorting and uploading already written documents. As soon as I finished it, there will be a list of opportunities to contribute to this project.
 
