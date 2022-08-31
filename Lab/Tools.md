@@ -21,6 +21,10 @@ List of suggested online and offline tools for TASing activities
 - [RegexOne](https://regexone.com/) - Learning
 
 
+# Reverse Engineering
+
+- http://kaitai.io/
+- https://github.com/korcankaraokcu/PINCE
 
 # Data Mining
 

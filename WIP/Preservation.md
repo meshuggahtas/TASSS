@@ -1,0 +1,3 @@
+- [Dew Point Calculator](http://www.dpcalc.org/)
+- http://www.digipres.org/
+- http://www.digipres.org/tools/by-function/
