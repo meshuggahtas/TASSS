@@ -2,6 +2,7 @@
 - [EZScape](https://www.youtube.com/channel/UCIyZiiHXIH7KkqfaDvBmG-Q)
 - [A+Start](https://www.youtube.com/user/AandStart)
 - [Swankybox](https://www.youtube.com/channel/UCF0SRAnWz56UBv-upYD0B5Q)
+- [Retro Game Mechanics Explained](https://www.youtube.com/channel/UCwRqWnW5ZkVaP_lZF7caZ-g)
 
 # TASers
 - [hisatoki](https://www.youtube.com/channel/UC0r4CCjR-MjAc0UZ_0M-sAA)
