@@ -3,6 +3,7 @@ Documenting the knowledge and history of Tool-Assisted Speedrunning & Superplays
 CC0 1.0 license for all hosted content
 
 # Project Information
+Additional project information: https://github.com/meshuggahtas/TASSS/ProjectInformation.md
 ## Features
 - Open-Access
 - 100% Free & No Ads
@@ -25,6 +26,7 @@ This repository is hosted on GitHub, therefore you are agreeing their terms when
 ### Physical and Mental Health
 
 ### Hosted contents
+This project does not host copyrighted content.
 
 ### Website links
 - Links to copyrighted material
@@ -43,6 +45,7 @@ The project is in the "uploading" phase, sorting and uploading already written d
 
 Contribution Opportunities:
 - Submitting feedback
+  - https://github.com/meshuggahtas/TASSS/issues
 - Submitting Lua scripts
 - Submitting JavaScript tools
 

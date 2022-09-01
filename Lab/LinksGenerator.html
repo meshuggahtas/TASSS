@@ -8,81 +8,51 @@
 <div id="result">
 </div>
 
-<script type="text/javascript">
-function Links() {
-	let anchor = document.createElement("a");
-	let query = document.getElementById("text").value;
-	let container = document.getElementById("result");
-	
+<script type="text/javascript">  
+function Entry(Text, Link) {
+	var anchor = document.createElement("a");
+  var container = document.getElementById("result");
+	anchor.appendChild(document.createTextNode(Text));
+  anchor.href = Link;
+	container.appendChild(anchor);
+  container.appendChild(document.createElement("br"));
+	container.appendChild(anchor);
+	container.appendChild(document.createElement("br"));
+
+}
+function Links() {  
+	var anchor = document.createElement("a");
+	var query = document.getElementById("text").value;
+	var container = document.getElementById("result");
+
+	container.innerHTML = "Links for "+query;
+	container.appendChild(document.createElement("br"));
+
 	container.appendChild(document.createTextNode("Wikis"));
 	container.appendChild(document.createElement("br"));
 	
-	anchor.appendChild(document.createTextNode("Wikipedia Search - "));
-	anchor.href = "https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1";
-	container.appendChild(document.createElement("br"));
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	
-	// does it also search datacrystal?
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("ROMhacking.net - Search for Hacks and Others using Google"));
-	anchor.href = "https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net";
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("tcrf.net - Search for Video Game Researches"));
-	anchor.href = "https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&";
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	container.appendChild(document.createElement("br"));
-	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("GameFAQs.com - Search for Video Game FAQs"));
-	anchor.href = "https://gamefaqs.gamespot.com/search?game="+query;
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	container.appendChild(document.createElement("br"));
-	
-	// https://bootleggames.fandom.com/wiki/BootlegGames_Wiki
-	
-	// http://www.hardcoregaming101.net/reviews/
-	
-	// https://strategywiki.org/
-	
-	// https://www.vgmaps.com/
-	
-	// https://hiddenpalace.org/Main_Page
-	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("TODO!! - Not implemented yet ! - gamehacking.org - Search for Video Game Researches"));
-	anchor.href = "https://gamehacking.org/search"
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	container.appendChild(document.createElement("br"));
-	
+	Entry("Wikipedia Search - ","https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1");
+	// TODO does it also search datacrystal?
+	Entry("ROMhacking.net - Search for Hacks and Others using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net");
+	Entry("tcrf.net - Search for Video Game Researches","https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&");
+	Entry("GameFAQs.com - Search for Video Game FAQs","https://gamefaqs.gamespot.com/search?game="+query);
+		// https://bootleggames.fandom.com/wiki/BootlegGames_Wiki
+	Entry("bootleg","https://gamefaqs.gamespot.com/search?game="+query);
+		// http://www.hardcoregaming101.net/reviews/
+	Entry("HardcoreGaming",https://gamefaqs.gamespot.com/search?game="+query);
+		// https://strategywiki.org/
+	Entry("StrategyWiki.org - Search for .. TODO NOT IMPLEMENTED","https://gamefaqs.gamespot.com/search?game="+query);
+	Entry("VGMaps.com - Search for Video Game Maps","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.vgmaps.com");
+	Entry("HiddenPalace.org - Search for ... TODO","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
+	Entry("TODO!! - Not implemented yet ! - gamehacking.org - Search for Video Game Researches","https://gamehacking.org/search");
+
 	container.appendChild(document.createTextNode("Speedruns (TASes and RTAs)"));
 	container.appendChild(document.createElement("br"));
 	container.appendChild(document.createElement("br"));
 	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("tasvideos.org - Search for TASes"));
-	anchor.href = "https://tasvideos.org/Search/Index?SearchTerms="+query;
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("speedrun.com - Search for RTA Speedruns using Google"));
-	anchor.href = "https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com";
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
-	
-	
-	anchor = document.createElement("a");
-	anchor.appendChild(document.createTextNode("nicovideo.jp - Search for TASes using Google"));
-	anchor.href = "https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com";
-	container.appendChild(anchor);
-	container.appendChild(document.createElement("br"));
+	Entry("tasvideos.org - Search for TASes","https://tasvideos.org/Search/Index?SearchTerms="+query);
+	Entry("speedrun.com - Search for RTA Speedruns using Google","https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com");
+	Entry("nicovideo.jp - Search for TASes using Google","https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com");
 }
 </script>
 </body>
