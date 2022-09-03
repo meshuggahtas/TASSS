@@ -6,7 +6,7 @@ List of suggested online and offline tools for TASing activities
 - [RestorePrivacy.com - Private Search Engines](https://restoreprivacy.com/private-search-engine/)
 
 # Online Search Tools
-- https://library.unimelb.edu.au/search-tools
+- (https://library.unimelb.edu.au/search-tools)
 
 # Mathematics
 
@@ -23,8 +23,10 @@ List of suggested online and offline tools for TASing activities
 
 # Reverse Engineering
 
-- http://kaitai.io/
-- https://github.com/korcankaraokcu/PINCE
+- (http://kaitai.io/)
+- (https://github.com/korcankaraokcu/PINCE)
+- [Cheat Engine](https://www.cheatengine.org/)
+- (https://analysis-tools.dev/tools)
 
 # Data Mining
 
@@ -34,9 +36,9 @@ List of suggested online and offline tools for TASing activities
 
 # Static program analysis
 
-- https://en.wikipedia.org/wiki/Call_graph
-- https://github.com/koknat/callGraph
-- https://github.com/wala/WALA
+- (https://en.wikipedia.org/wiki/Call_graph)
+- (https://github.com/koknat/callGraph)
+- (https://github.com/wala/WALA)
 
 
 ## Statistics
@@ -73,13 +75,13 @@ Optical Character Recognition and other helpful guides
 
 - [TASVideos.org Japanese Resources](https://tasvideos.org/JapaneseResources)
 - [TASVideos.org Japanese Fantasy Elements](https://tasvideos.org/JapaneseFantasyElements)
-- TODO Consider mentioning fan made translations
+- TODO mention fan made translations
 
 # Alternatives
 
 - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
-- https://www.fosshub.com/
-- https://sourceforge.net/
+- (https://www.fosshub.com/)
+- (https://sourceforge.net/)
 
 - add note to alternatives about what features to look for and how to help deciding use of software over the other ones
 
@@ -91,16 +93,16 @@ Optical Character Recognition and other helpful guides
 - Statistical Analysis
 
 - Flowchart, Diagram
-- https://www.tecmint.com/best-flowchart-and-diagramming-software-for-linux/
+- (https://www.tecmint.com/best-flowchart-and-diagramming-software-for-linux/)
 
-- https://restoreprivacy.com/unblock-websites/
+- (https://restoreprivacy.com/unblock-websites/)
 
-- https://superset.apache.org/
-- https://grafana.com/
-- https://www.rawgraphs.io/
-- https://marketingplatform.google.com/about/data-studio/
-- https://eclipse.github.io/birt-website/
-- https://www.knime.com/knime-analytics-platform
-- https://powerbi.microsoft.com/en-us/desktop/
+- (https://superset.apache.org/)
+- (https://grafana.com/)
+- (https://www.rawgraphs.io/)
+- (https://marketingplatform.google.com/about/data-studio/)
+- (https://eclipse.github.io/birt-website/)
+- (https://www.knime.com/knime-analytics-platform)
+- (https://powerbi.microsoft.com/en-us/desktop/)
 
 - wireshark

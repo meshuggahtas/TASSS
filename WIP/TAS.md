@@ -130,3 +130,5 @@ tasvideos wiki bad ideas
 - https://www.youtube.com/watch?v=RhgSSmBwNf8
 
 - https://gdqvods.com/category/developer-commentaries
+
+- TAS Documentary 2014 by Simo Vihinen https://docs.google.com/document/d/1GVByGuhGdVFyxxLH5f_vAaA_52wpyQ-YKiFkljyGJcc/edit?mode=html

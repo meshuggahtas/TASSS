@@ -14,3 +14,6 @@
 - Searching for unknown glitches and branches
 
 - Reinforcement
+
+# Real Life Examples
+- Rube Goldberg machines

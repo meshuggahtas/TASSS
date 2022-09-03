@@ -39,6 +39,15 @@ Tool-Assisted Speedrunning World Records
 
 # Other
 
+## Single Button Mashing
+Note: These records based on video proof and the controller of choice are different.
+- 1 second - 16 times [Takahashi Meijin 16Shot](https://www.youtube.com/watch?v=oJ4lmAFB7d4)
+- 10 second - 238 times [Mario Party 4 - Domination 238 (23.8 button presses per second)](https://www.youtube.com/watch?v=kO_VtgTSgJ8)
+- 60 seconds - 1029 times [FASTEST BUTTON MASHER IN THE WORLD (31.25 CPS)](https://www.youtube.com/watch?v=HlnIKKo9nRY)
+
+## Bawl / Drag Clicking
+TODO Elaborate
+
 ## Guinness World Records
 Tool-assisted Speedrunning is unfortunately not accepted for submitting.
 
