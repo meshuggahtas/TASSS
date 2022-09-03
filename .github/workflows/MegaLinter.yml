@@ -5,7 +5,7 @@ name: MegaLinter
 
 on:
   workflow_dispatch:
-  push:
+#  push:
   pull_request:
     branches: main
 
