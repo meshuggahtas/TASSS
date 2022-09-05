@@ -1,59 +1,78 @@
 <!DOCTYPE html>
 <html>
 <body>
-<input id="text" type="text" placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
-<button onclick="Links()">Generate Links</button>
+<input id="text" type="text" size=50 placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
+<button onclick="generate()">Generate Links</button>
+<button onclick="help()">Toggle Help</button>
 <br>
 <br>
+<div id="help">
+- Use Game Name or ROM Name when searching for general information<br>
+- Use ROM Name or ROM Hash when seraching for ROM information<br>
+- Use <a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en">Linkclump</a> or other browser extension to easily open multiple links at once<br>
+<br>
+</div>
 <div id="result">
 </div>
 
-<script type="text/javascript">  
-function Entry(Text, Link) {
+<script type="text/javascript">
+function entry(text, link) {
 	var anchor = document.createElement("a");
-  var container = document.getElementById("result");
-	anchor.appendChild(document.createTextNode(Text));
-  anchor.href = Link;
-	container.appendChild(anchor);
-  container.appendChild(document.createElement("br"));
+	var container = document.getElementById("result");
+	anchor.appendChild(document.createTextNode(text));
+	anchor.href = link;
 	container.appendChild(anchor);
 	container.appendChild(document.createElement("br"));
+	container.appendChild(anchor);
+	container.appendChild(document.createElement("br"));
+};
 
-}
-function Links() {  
+function help() {
+
+	var container = document.getElementById("help");
+	if (container.style.display === "none") {
+		container.style.display = "block";
+	} else {
+		container.style.display = "none";
+	}
+};
+
+// TODO
+// Does ROMHacking.net also search datacrystal?
+// https://bootleggames.fandom.com/wiki/BootlegGames_Wiki
+// http://www.hardcoregaming101.net/reviews/
+// https://strategywiki.org/
+function generate() {  
 	var anchor = document.createElement("a");
 	var query = document.getElementById("text").value;
 	var container = document.getElementById("result");
 
-	container.innerHTML = "Links for "+query;
+	container.innerHTML = "Generated Links for \""+query+"\"";
 	container.appendChild(document.createElement("br"));
 
 	container.appendChild(document.createTextNode("Wikis"));
 	container.appendChild(document.createElement("br"));
 	
-	Entry("Wikipedia Search - ","https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1");
-	// TODO does it also search datacrystal?
-	Entry("ROMhacking.net - Search for Hacks and Others using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net");
-	Entry("tcrf.net - Search for Video Game Researches","https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&");
-	Entry("GameFAQs.com - Search for Video Game FAQs","https://gamefaqs.gamespot.com/search?game="+query);
-		// https://bootleggames.fandom.com/wiki/BootlegGames_Wiki
-	Entry("bootleg","https://gamefaqs.gamespot.com/search?game="+query);
-		// http://www.hardcoregaming101.net/reviews/
-	Entry("HardcoreGaming","https://gamefaqs.gamespot.com/search?game="+query);
-		// https://strategywiki.org/
-	Entry("StrategyWiki.org - Search for .. TODO NOT IMPLEMENTED","https://gamefaqs.gamespot.com/search?game="+query);
-	Entry("VGMaps.com - Search for Video Game Maps","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.vgmaps.com");
-	Entry("HiddenPalace.org - Search for ... TODO","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
-	Entry("TODO!! - Not implemented yet ! - gamehacking.org - Search for Video Game Researches","https://gamehacking.org/search");
+	entry("Wikipedia.org - Search for Information","https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1");
+	entry("ROMhacking.net - Search for Hacks and Others using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net");
+	entry("tcrf.net - Search for Video Game Researches","https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&");
+	entry("GameFAQs.com - Search for Video Game FAQs","https://gamefaqs.gamespot.com/search?game="+query);
+	entry("bootleg","https://gamefaqs.gamespot.com/search?game="+query);
+	entry("HardcoreGaming","https://gamefaqs.gamespot.com/search?game="+query);
+	entry("StrategyWiki.org - Search for .. TODO NOT IMPLEMENTED","https://gamefaqs.gamespot.com/search?game="+query);
+	entry("VGMaps.com - Search for Video Game Maps","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.vgmaps.com");
+	entry("HiddenPalace.org - Search for ... TODO","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
+	entry("TODO!! - Not implemented yet ! - gamehacking.org - Search for Video Game Researches","https://gamehacking.org/search");
 
+	container.appendChild(document.createElement("hr"));
 	container.appendChild(document.createTextNode("Speedruns (TASes and RTAs)"));
 	container.appendChild(document.createElement("br"));
 	container.appendChild(document.createElement("br"));
 	
-	Entry("tasvideos.org - Search for TASes","https://tasvideos.org/Search/Index?SearchTerms="+query);
-	Entry("speedrun.com - Search for RTA Speedruns using Google","https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com");
-	Entry("nicovideo.jp - Search for TASes using Google","https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com");
-}
+	entry("tasvideos.org - Search for TASes","https://tasvideos.org/Search/Index?SearchTerms="+query);
+	entry("speedrun.com - Search for RTA Speedruns using Google","https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com");
+	entry("nicovideo.jp - Search for TASes using Google","https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com");
+};
 </script>
 </body>
 </html>
