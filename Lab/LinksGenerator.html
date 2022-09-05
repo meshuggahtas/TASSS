@@ -8,8 +8,9 @@
 <br>
 <div id="help">
 - Use Game Name or ROM Name when searching for general information<br>
-- Use ROM Name or ROM Hash when seraching for ROM information<br>
+- Use ROM Name or ROM Hash when searching for ROM information<br>
 - Use <a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en">Linkclump</a> or other browser extension to easily open multiple links at once<br>
+<hr>
 <br>
 </div>
 <div id="result">
@@ -38,8 +39,6 @@ function help() {
 };
 
 // TODO
-// Does ROMHacking.net also search datacrystal?
-// https://bootleggames.fandom.com/wiki/BootlegGames_Wiki
 // http://www.hardcoregaming101.net/reviews/
 // https://strategywiki.org/
 function generate() {  
@@ -48,21 +47,21 @@ function generate() {
 	var container = document.getElementById("result");
 
 	container.innerHTML = "Generated Links for \""+query+"\"";
-	container.appendChild(document.createElement("br"));
+	container.appendChild(document.createElement("hr"));
 
 	container.appendChild(document.createTextNode("Wikis"));
 	container.appendChild(document.createElement("br"));
 	
 	entry("Wikipedia.org - Search for Information","https://en.wikipedia.org/w/index.php?search="+query+" Video Game"+"&title=Special%3ASearch&go=Go&ns0=1");
-	entry("ROMhacking.net - Search for Hacks and Others using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.romhacking.net");
+	entry("ROMhacking.net - Search for Hacks and Others using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=romhacking.net");
 	entry("tcrf.net - Search for Video Game Researches","https://tcrf.net/index.php?search="+query+"&title=Special%3ASearch&");
 	entry("GameFAQs.com - Search for Video Game FAQs","https://gamefaqs.gamespot.com/search?game="+query);
-	entry("bootleg","https://gamefaqs.gamespot.com/search?game="+query);
-	entry("HardcoreGaming","https://gamefaqs.gamespot.com/search?game="+query);
-	entry("StrategyWiki.org - Search for .. TODO NOT IMPLEMENTED","https://gamefaqs.gamespot.com/search?game="+query);
+	entry("BootlegGames Wiki","https://bootleggames.fandom.com/wiki/Special:Search?query="+query+"&scope=internal&navigationSearch=true");
+	entry("HardcoreGaming -","http://www.hardcoregaming101.net/?s="+query);
+	entry("StrategyWiki.org - Search for Video Game FAQs","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=strategywiki.org");
 	entry("VGMaps.com - Search for Video Game Maps","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.vgmaps.com");
-	entry("HiddenPalace.org - Search for ... TODO","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
-	entry("TODO!! - Not implemented yet ! - gamehacking.org - Search for Video Game Researches","https://gamehacking.org/search");
+	entry("HiddenPalace.org - Search for ...","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
+	entry("gamehacking.org - Search for Video Game Researches using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=gamehacking.org");
 
 	container.appendChild(document.createElement("hr"));
 	container.appendChild(document.createTextNode("Speedruns (TASes and RTAs)"));
