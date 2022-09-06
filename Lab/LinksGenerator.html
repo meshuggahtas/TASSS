@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
 <body>
-<input id="text" type="text" size=50 placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
-<button onclick="generate()">Generate Links</button>
+<form onsubmit="return false">
+<input id="text" type="text" size=50 autofocus=true placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
+<input type="submit" onclick="generate()" value="Generate Links"></input>
 <button onclick="help()">Toggle Help</button>
+</form>
 <br>
 <br>
 <div id="help">
-- Use Game Name or ROM Name when searching for general information<br>
-- Use ROM Name or ROM Hash when searching for ROM information<br>
-- Use <a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en">Linkclump</a> or other browser extension to easily open multiple links at once<br>
+Help:<br>
+- Use <b>Game Name</b> or <b>ROM Name</b> when searching for general information<br>
+- Use <b>ROM Name or <b>ROM Hash</b> when searching for ROM information<br>
+- Use <a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en">Linkclump</a> or other browser extension to easily open multiple links at once<br><br>
+Customize this page to your own usage:<br>
+- TODO<br>
 <hr>
 <br>
 </div>
@@ -38,9 +43,6 @@ function help() {
 	}
 };
 
-// TODO
-// http://www.hardcoregaming101.net/reviews/
-// https://strategywiki.org/
 function generate() {  
 	var anchor = document.createElement("a");
 	var query = document.getElementById("text").value;
@@ -61,16 +63,16 @@ function generate() {
 	entry("StrategyWiki.org - Search for Video Game FAQs","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=strategywiki.org");
 	entry("VGMaps.com - Search for Video Game Maps","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=www.vgmaps.com");
 	entry("HiddenPalace.org - Search for ...","https://hiddenpalace.org/w/index.php?search="+query+"&title=Special%3ASearch&go=Go");
-	entry("gamehacking.org - Search for Video Game Researches using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=gamehacking.org");
+	entry("GameHacking.org - Search for Video Game Researches using Google","https://www.google.com/search?q="+query+"&btnG=Search&sitesearch=gamehacking.org");
 
 	container.appendChild(document.createElement("hr"));
 	container.appendChild(document.createTextNode("Speedruns (TASes and RTAs)"));
 	container.appendChild(document.createElement("br"));
 	container.appendChild(document.createElement("br"));
 	
-	entry("tasvideos.org - Search for TASes","https://tasvideos.org/Search/Index?SearchTerms="+query);
-	entry("speedrun.com - Search for RTA Speedruns using Google","https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com");
-	entry("nicovideo.jp - Search for TASes using Google","https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com");
+	entry("TASVideos.org - Search for TASes","https://tasvideos.org/Search/Index?SearchTerms="+query);
+	entry("Speedrun.com - Search for RTA Speedruns using Google","https://www.google.com/search?q="+query+"&sitesearch=www.speedrun.com");
+	entry("Nicovideo.jp - Search for TASes using Google","https://www.google.com/search?q="+query+"+TAS&sitesearch=www.speedrun.com");
 };
 </script>
 </body>
