@@ -82,6 +82,7 @@ Optical Character Recognition and other helpful guides
 - [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations
 - (https://www.fosshub.com/)
 - (https://sourceforge.net/)
+- (https://github.com/tycrek/degoogle)
 
 - add note to alternatives about what features to look for and how to help deciding use of software over the other ones
 

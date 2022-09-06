@@ -18,25 +18,3 @@ how much money you want to spend.
 I want to contribute to TASing. Where should I start?
 
 TASing might take a very long time. It’s important to pick a game you love, as you will spend your time with it, experimenting on how to be faster in various places using different strategies.
-
-
-I want to contribute to tasvideos.org. Where should I start?
-
-The difficulty of actions per TASing roles from lowest to highest:
-- Forum posting
-- Editor
-- Judging
-- Encoding
-- Emulator Developer
-- TASer
-
-The quantity of knowledge per TASing roles from lowest to highest:
-- Forum posting
-- Rating TASes
-- Editor
-- Encoding
-- Judging
-- TASer
-- Emulator Developer
-
-- [TASVideos.org - WelcomeToTASVideos](https://tasvideos.org/WelcomeToTASVideos)

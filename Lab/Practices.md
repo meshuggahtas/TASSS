@@ -10,10 +10,12 @@
 
 # Privacy
 
-- https://restoreprivacy.com/privacy-tools/
+- (https://restoreprivacy.com/privacy-tools/)
 
-- https://restoreprivacy.com/identity-theft-protection/
+- (https://restoreprivacy.com/identity-theft-protection/)
 
-- https://spreadprivacy.com/tag/device-privacy-tips/
+- (https://spreadprivacy.com/tag/device-privacy-tips/)
 
-- https://privacyinternational.org/act/protect-yourself-online-tracking
+- (https://privacyinternational.org/act/protect-yourself-online-tracking)
+
+- (https://tosdr.org/)
