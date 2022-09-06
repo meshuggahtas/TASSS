@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<form onsubmit="return false">
+<form onsubmit="generate()">
 <input id="text" type="text" size=50 autofocus=true placeholder="Insert Game Name or ROM Name or ROM Hash (MD5)">
-<input type="submit" onclick="generate()" value="Generate Links"></input>
+<input type="submit" onclick="generate()" value="Generate Links" ></input>
 <button onclick="help()">Toggle Help</button>
 </form>
 <br>
@@ -11,7 +11,7 @@
 <div id="help">
 Help:<br>
 - Use <b>Game Name</b> or <b>ROM Name</b> when searching for general information<br>
-- Use <b>ROM Name or <b>ROM Hash</b> when searching for ROM information<br>
+- Use <b>ROM Name</b> or <b>ROM Hash</b> when searching for ROM information<br>
 - Use <a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en">Linkclump</a> or other browser extension to easily open multiple links at once<br><br>
 Customize this page to your own usage:<br>
 - TODO<br>
