@@ -30,7 +30,5 @@ This repository is hosted on GitHub, therefore you are agreeing their terms when
 This project does not host copyrighted content.
 
 ### Website links
-- Links to copyrighted material
-Do not request or post links to any illegal or copyrighted content.
-
-Link shortners of any kind for any link are prohibited.
+- Do not request or post links to any illegal or copyrighted content.
+- Link shortners of any kind for any link are prohibited.
