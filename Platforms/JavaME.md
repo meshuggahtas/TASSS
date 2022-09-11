@@ -14,6 +14,10 @@ Currently there is no accepted emulator for submitting TASes
 
 # Game Workflow
 
+# Networking
+## Bluetooth
+## Infrared
+
 # Miscellaneous notes
 
 - J2ME was the popular old name for Java ME 

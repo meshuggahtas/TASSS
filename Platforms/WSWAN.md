@@ -4,7 +4,7 @@ WonderSwan
 
 # TASing tips
 
-;Title Screen:
+## Title Screen
 
 # Game workflow
 
@@ -12,6 +12,12 @@ WonderSwan
 
 - 70 FPS but only 1 game supports it (is it already released? that side scrolling shmup)
 
+# Variations
+## WonderSwan
+## WonderSwan Color
+## SwanCrystal
+
 # Links
 
-- [https://en.wikipedia.org/wiki/WonderSwan|Wikipedia WonderSwan]
+- [Wikipedia WonderSwan](https://en.wikipedia.org/wiki/WonderSwan)
+- (https://www.homearcadesystems.com/bandai-wonderswan-101-a-beginners-guide/)
