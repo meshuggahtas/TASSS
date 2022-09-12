@@ -13,4 +13,6 @@ Creative Resources
 - (https://clara.io/library)
 
 # TODO
-- Try to make it as short as possible: Prefer to use mega lists like awesome lists from github
+- Try to make it as short as possible:
+  - Prefer to use mega lists like awesome lists from github
+  - Try to list only 1 extra and multiple awesome lists!

@@ -58,3 +58,5 @@ HTML5
 
 Delay Input (Seconds)	3
 
+Something like [MIDITrail](http://miditrail.osdn.jp/Windows/MANUAL.en.html) and those Stepmania style dancing game where the notes are falling from top to bottom and the player requires to react at the correct time with the same input the note represents
+

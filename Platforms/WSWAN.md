@@ -19,5 +19,5 @@ WonderSwan
 
 # Links
 
-- [Wikipedia WonderSwan](https://en.wikipedia.org/wiki/WonderSwan)
+- [Wikipedia - WonderSwan](https://en.wikipedia.org/wiki/WonderSwan)
 - (https://www.homearcadesystems.com/bandai-wonderswan-101-a-beginners-guide/)
