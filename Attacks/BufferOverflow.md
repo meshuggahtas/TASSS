@@ -1,3 +1,1 @@
-# Persistence
-
 - CISSP

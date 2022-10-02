@@ -1,6 +1,5 @@
 Notes for TASers:
-- Understanding and overcoming potential problems to maximize audience experience of watching a TAS
-- Making sure to get your message across media
+- Understanding and overcoming potential problems to maximize audience experience of watching a TAS as well as getting your message through the medium
 
 The audience has the following options to watch a TAS:
 

@@ -1,13 +1,16 @@
 TASVideos Ecosystem
 
-https://tasvideos.org/Awards
+# Awards
+- https://tasvideos.org/Awards
 
-https://tasvideos.org/Contests
+# Events
+## Contests
+- https://tasvideos.org/Contests
 
-https://tasvideos.org/GamesDoneQuick
+## Demonstrations and Playbacks
+- https://tasvideos.org/GamesDoneQuick
 
-Skills Involved
-
+# Skills Involved
 
 I want to contribute to tasvideos.org. Where should I start?
 

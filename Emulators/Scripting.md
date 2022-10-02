@@ -3,20 +3,21 @@ Scripting
 Emulator support for scripting languages
 
 # Python
-- https://www.w3schools.com/python/default.asp
-- https://www.w3schools.com/python/python_reference.asp
+- (https://www.w3schools.com/python/default.asp)
+- (https://www.w3schools.com/python/python_reference.asp)
 
 ## IDE
 
 
 # Lua
-- http://tasvideos.org/LuaScripting.html
+- (http://tasvideos.org/LuaScripting.html)
 - usermovies has lua files but you can't filter results
 
-- https://code.google.com/archive/p/tastools/
-- repos with lua scripts
-- https://github.com/TASVideos/tastools	
+## Repos with lua scripts
+- (https://github.com/TASVideos/tastools)
+- (https://code.google.com/archive/p/tastools/)
 
+## Other
 - https://www.libhunt.com/l/lua/topic/lua
 - https://www.libhunt.com/search?query=lua
 
@@ -27,16 +28,17 @@ Emulator support for scripting languages
 
 ## IDE
 
-- https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Lua
-- https://github.com/pkulchenko/ZeroBraneStudio
+- (https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Lua)
+- (https://github.com/pkulchenko/ZeroBraneStudio)
 
 # FCEU
 
-https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/adelikat
-https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/Randil
-https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/JXQ
+- (https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/adelikat)
+- (https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/Randil)
+- (https://github.com/TASVideos/tastools/tree/master/FCEU-MemoryWatch/JXQ)
 
 # TODO
 
 - NES FCEUX SMB3 Early Hammer	https://github.com/fortenbt/smb3-eh	
 - NES FCEUX	https://github.com/sleepy9090/FCEUX-Lua-Scripts	
+- Maybe only mention entries one time, not per language/tool?

@@ -7,9 +7,9 @@ know your limits to create yourself realistic goals
 # Physical Excercises
 - Primitive movements (running, climbing, walking, crawling, jumping)
 
-https://en.wikipedia.org/wiki/High-intensity_interval_training
+(https://en.wikipedia.org/wiki/High-intensity_interval_training)
 
-https://en.wikipedia.org/wiki/Aerobic_exercise
+(https://en.wikipedia.org/wiki/Aerobic_exercise)
 
 gold standard:
 
@@ -18,6 +18,7 @@ aerobic excercise 30 minutes at a clip, two or three times a week
 # Nutrition
 - Proper Diet
 
-maslow's hierarchy of needs
+Maslow's Hierarchy of Needs
 
 neolimbic brain (motivation and obsession layers)
+paleolimbic brain

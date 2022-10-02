@@ -33,4 +33,4 @@ Logical
 Relevant		Up to date
 		
 		
-Assymetric and imperfect informations		
+Assymetric and imperfect informations

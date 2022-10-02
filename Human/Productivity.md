@@ -38,13 +38,13 @@ Lua scripting
 TAS Editor
 
 
-[[https://en.wikipedia.org/wiki/Power_user|Wikipedia](https://en.wikipedia.org/wiki/Power_user%7CWikipedia) Power User]
+[Wikipedia - Power User](https://en.wikipedia.org/wiki/Power_user%7CWikipedia)
 
 - Forgetting curve by Hermann Ebbinghaus
-https://en.wikipedia.org/wiki/Forgetting_curve
+(https://en.wikipedia.org/wiki/Forgetting_curve)
 
 - Dunning–Kruger effect
-https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+(https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 
 
 - Willpower

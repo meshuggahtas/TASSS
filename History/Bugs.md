@@ -4,25 +4,26 @@ Where
 
 - Team mistakes
 
-- - Lack of skills
-- - Design issues
-- - Complexity
-- - Not thinking about the future
+  - Lack of skills
+  - Design issues
+  - Complexity
+  - Not thinking about the future
 
 - Developing mistakes
 
-- - Responsibility gaps
+  - Responsibility gaps
 
 - Coding mistakes
 
-- - Lack of Clarity
-- - Lack of Data Sanitization
-- - Lack of Time (Deadlines)
-- - Imported bugs (Existing bugs in components)
-- - - Dependencies 1st and 3rd party libraries
-- - - Cold path
+  - Lack of Clarity
+  - Lack of Data Sanitization
+  - Lack of Time (Deadlines)
+    - Death march
+  - Imported bugs (Existing bugs in components)
+  - - Dependencies 1st and 3rd party libraries
+  - - Cold path
 
-- - Lack of Testing
+  - Lack of Testing
 
 Most expensive software bugs
 
