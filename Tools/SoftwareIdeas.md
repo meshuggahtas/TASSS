@@ -3,7 +3,7 @@ Generate MIDI from a TAS movie
 - For entertainment
 
 # Inputter / TAS Input Playback
-- virtual keyboard/mouse/controller device
+- virtual keyboard/mouse/controller device (windows 
 
 # TASTimings
 Generate audio and visual image for practicing timing of a frame window based on a framerate
