@@ -1,34 +1,26 @@
 # States
 
-win state
-lose state
-goal state
+Win
+Lose
+Goal
 
 https://tasvideos.org/Forum/Topics/10470
 
 # Versions
 
-Different versions
-
-1. Prototype
-2. Alpha Test
-3. Beta Test
-
-- Ported
-
-
+## Prototype
+## Alpha
+## Beta
+## Ported
 
 # Gaming Experience
-
-
-Genres
-
+## Genres
 Different games has different merits and statistics to be enjoyed.
 
 A sport game TAS might 
 
 
-Number of Players
+## Number of Players
 
 Information Availability
 	Complete Information

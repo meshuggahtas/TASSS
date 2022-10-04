@@ -3,5 +3,5 @@
 - [Wikipedia - Input device](https://en.wikipedia.org/wiki/Input_device)
 
 # TODO
-- Physical input versus software input (circle vs rectangle 360 degree stick input)
-- Not existing buttons (2P Famicom Start)
+- Physical input versus software input (360 degree stick input - circle vs rectangle)
+- Non-existing buttons (2P Famicom Start)
