@@ -24,3 +24,6 @@ Video games can be organized into the various categories:
 
 --------- Subjective - Based on personal opinions
 - Genre    https://en.wikipedia.org/wiki/Video_game_genre
+
+# Disclaimers
+Make sure to read the [project's disclaimer here](https://github.com/meshuggahtas/TASSS#disclaimers) before visiting any of the sites mentioned in this.

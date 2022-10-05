@@ -42,3 +42,6 @@ https://www.moddb.com/addons?filter=t&kw=&category=129&licence=&game=&timeframe=
 https://www.debigare.com/randomizers/
 
 https://www.hiveworkshop.com/repositories/maps.564/?order=post_date
+
+# Disclaimers
+Make sure to read the [project's disclaimer here](https://github.com/meshuggahtas/TASSS#disclaimers) before visiting any of the sites mentioned in this.
