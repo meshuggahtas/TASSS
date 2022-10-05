@@ -12,6 +12,5 @@
   - Pixel art
 ## Audio
   - SONISS GAM 6 etc
-  - https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs
-  - https://en.wikipedia.org/wiki/Comparison_of_MIDI_editors_and_sequencers
-  - https://qtractor.org/#Intro
+  - (https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)
+  - (https://en.wikipedia.org/wiki/Comparison_of_MIDI_editors_and_sequencers)

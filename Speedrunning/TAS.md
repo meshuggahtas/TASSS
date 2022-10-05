@@ -14,9 +14,6 @@ tool-assisted speedrun
 noun
 a speedrun crafted with an emulator using special tools like memory watch, disassembler and frame-by-frame advance.
 
-----a quote from someone… Morimoto or Bisqwit or Arc or feos…?
-
-
 A Tool-Assisted Speedrun (TAS) is a file containing [metadata](https://en.wikipedia.org/wiki/Metadata) and a sequence of [inputs](https://en.wikipedia.org/wiki/Input_(computer_science)). The goal is to create the theoretically perfect playthrough which completes a [video game](https://en.wikipedia.org/wiki/Video_game) as fast as possible.
 
 The input sequence is created in an [emulator](https://en.wikipedia.org/wiki/Emulator) using tools such as savestates , frame-by-frame advance for [slow motion](https://en.wikipedia.org/wiki/Slow_motion), memory watch
@@ -46,15 +43,15 @@ Links
 
 Wikipedia					
 
-https://en.wikipedia.org/wiki/Tool-assisted_speedrun
+(https://en.wikipedia.org/wiki/Tool-assisted_speedrun
 
-10 Myths about Speedrunning by Bismuth	https://www.youtube.com/watch?v=wc2UJtzy8Lk
+[YouTube - 10 Myths about Speedrunning by Bismuth](https://www.youtube.com/watch?v=wc2UJtzy8Lk)
 
-http://tasvideos.org/WhyAndHow.html
+(http://tasvideos.org/WhyAndHow.html)
 
-http://fceux.com/web/help/fceux.html?ToolAssistedSpeedruns.html
+(http://fceux.com/web/help/fceux.html?ToolAssistedSpeedruns.html)
 
-http://fceux.com/web/help/taseditor/index.html?BeginnersGuide.html
+(http://fceux.com/web/help/taseditor/index.html?BeginnersGuide.html)
 
 
 
@@ -86,7 +83,7 @@ There are many different people all over the world
 
 
 Sources:
-Speedrun definition from https://www.google.com/search?q=speedrun+definition
+Speedrun definition from (https://www.google.com/search?q=speedrun+definition)
 
 
 # Where do you create Tool-Assisted Speedruns?
@@ -99,7 +96,7 @@ Timeline
 # How do you create a Tool-Assisted Speedrun?
 
 How to create the perfect speedrun - Tool-assisted speedrunning explained by Bismuth
-https://www.youtube.com/watch?v=Ietk1-Wb7oY
+(https://www.youtube.com/watch?v=Ietk1-Wb7oY)
 
 
 Required skills
@@ -119,16 +116,16 @@ How to, How long does it takes, How frequently TASing,
 
 tasvideos wiki bad ideas
 
-- https://en.wikipedia.org/wiki/Speedrun
-- https://en.wikipedia.org/wiki/Tool-assisted_speedrun
+- (https://en.wikipedia.org/wiki/Speedrun)
+- (https://en.wikipedia.org/wiki/Tool-assisted_speedrun)
 
-- https://www.youtube.com/watch?v=Ietk1-Wb7oY
-- https://www.youtube.com/watch?v=R3-ohYvi_fc
-- https://www.youtube.com/watch?v=jUNVW_UoSUI
-- https://www.youtube.com/watch?v=O2UIXKF3Gyw
+- (https://www.youtube.com/watch?v=Ietk1-Wb7oY)
+- (https://www.youtube.com/watch?v=R3-ohYvi_fc)
+- (https://www.youtube.com/watch?v=jUNVW_UoSUI)
+- (https://www.youtube.com/watch?v=O2UIXKF3Gyw)
 
-- https://www.youtube.com/watch?v=RhgSSmBwNf8
+- (https://www.youtube.com/watch?v=RhgSSmBwNf8)
 
-- https://gdqvods.com/category/developer-commentaries
+- (https://gdqvods.com/category/developer-commentaries)
 
-- TAS Documentary 2014 by Simo Vihinen https://docs.google.com/document/d/1GVByGuhGdVFyxxLH5f_vAaA_52wpyQ-YKiFkljyGJcc/edit?mode=html
+- TAS Documentary 2014 by Simo Vihinen (https://docs.google.com/document/d/1GVByGuhGdVFyxxLH5f_vAaA_52wpyQ-YKiFkljyGJcc/edit?mode=html)

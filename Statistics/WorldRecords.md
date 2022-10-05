@@ -1,4 +1,4 @@
-Tool-Assisted Speedrunning World Records 
+Tool-Assisted Speedrunning World Records
 
 # TASVideos
 
@@ -27,6 +27,8 @@ Tool-Assisted Speedrunning World Records
 ### Smallest rerecords-per-movie-length ratio 
 - [TASVideos.org ](https://tasvideos.org/MovieStatistics#SmallestRerecordsPerMovieLengthRatio)
 
+### Most TASes
+
 ## Milestones
 
 ### Longest-non-obsoleted movies 
@@ -34,13 +36,13 @@ Tool-Assisted Speedrunning World Records
 
 ## Ratings
 - Records @ [TASVideos.org ](https://tasvideos.org/MovieStatistics#RatingData)
-- Number of registered TASVideos users rated a TAS on this site after it was published 
-- TODO Changes (dropping of technical ratings)
+- Number of registered TASVideos users rated a TAS on this site after it was published
+- In 2021-2022 the technical ratings were dropped
 
 # Other
 
 ## Single Button Mashing
-Note: These records based on video proof and the controller of choice are different.
+Note: These records based on video proof and the controller of choice are not the same.
 - 1 second - 16 times [YouTube - Takahashi Meijin 16Shot](https://www.youtube.com/watch?v=oJ4lmAFB7d4)
 - 10 second - 238 times [YouTube - Mario Party 4 - Domination 238 (23.8 button presses per second)](https://www.youtube.com/watch?v=kO_VtgTSgJ8)
 - 60 seconds - 1029 times [YouTube - FASTEST BUTTON MASHER IN THE WORLD (31.25 CPS)](https://www.youtube.com/watch?v=HlnIKKo9nRY)
@@ -63,6 +65,3 @@ Tool-assisted Speedrunning is unfortunately not accepted for submitting.
 ## Olympics
 - (https://en.wikipedia.org/wiki/Olympic_Games)
 - (https://en.wikipedia.org/wiki/Olympic_Games#Controversies)
-
-# TODO
-- Consider calling "tests" something different - the action of a TASer going back to an earlier point and changing input to see the outcome
