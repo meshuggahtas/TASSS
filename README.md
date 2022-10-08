@@ -3,7 +3,9 @@ Documenting the knowledge and history of Tool-Assisted Speedrunning & Superplays
 CC0 1.0 license for all hosted content
 
 # Project Information
-Additional project information: https://meshuggahtas.github.io/TASSS/TASSS/ProjectInformation
+## Version 0.2
+Version History: https://meshuggahtas.github.io/TASSS/TASSS/VersionHistory
+
 ## Features
 - Open-Access, 100% Free and No Ads
 - Totally Independent & Non-Affiliated and Unbiased
@@ -37,3 +39,5 @@ Additional project information: https://meshuggahtas.github.io/TASSS/TASSS/Proje
 
 ### Website links
 - Do not request links to any illegal or copyrighted content.
+
+Additional project information: https://meshuggahtas.github.io/TASSS/TASSS/ProjectInformation

@@ -1,8 +1,7 @@
 List of hardware used in TASing environments
 
 # Input
-
-- https://en.wikipedia.org/wiki/Input_device
+- (https://en.wikipedia.org/wiki/Input_device)
 
 # Typing / Touch
 
@@ -25,8 +24,7 @@ List of hardware used in TASing environments
 ### Headphones
 
 # Visual
-
-- https://en.wikipedia.org/wiki/Display_device
+- (https://en.wikipedia.org/wiki/Display_device)
 
 ## 2D
 - Monitor
