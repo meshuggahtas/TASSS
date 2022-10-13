@@ -18,6 +18,8 @@ Emulator support for scripting languages
 - (https://code.google.com/archive/p/tastools/)
 
 ## Other
+- (https://studio.zerobrane.com/documentation.html)
+- (https://studio.zerobrane.com/tutorials.html)
 - https://www.libhunt.com/l/lua/topic/lua
 - https://www.libhunt.com/search?query=lua
 
@@ -39,6 +41,6 @@ Emulator support for scripting languages
 
 # TODO
 
-- NES FCEUX SMB3 Early Hammer	https://github.com/fortenbt/smb3-eh	
-- NES FCEUX	https://github.com/sleepy9090/FCEUX-Lua-Scripts	
+- NES FCEUX SMB3 Early Hammer (https://github.com/fortenbt/smb3-eh)
+- NES FCEUX (https://github.com/sleepy9090/FCEUX-Lua-Scripts)
 - Maybe only mention entries one time, not per language/tool?

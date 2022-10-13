@@ -6,3 +6,5 @@
 - (https://collegecliffs.com/free-online-learning-tools-resources-college-students/)
 
 # Educational YouTube Channels
+
+- [Kurzgesagt - In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)

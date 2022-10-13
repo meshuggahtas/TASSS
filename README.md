@@ -3,8 +3,8 @@ Documenting the knowledge and history of Tool-Assisted Speedrunning & Superplays
 CC0 1.0 license for all hosted content
 
 # Project Information
-## Version 0.2
-Version History: https://meshuggahtas.github.io/TASSS/TASSS/VersionHistory
+## Version 0.2 Alpha
+Version History: (https://meshuggahtas.github.io/TASSS/TASSS/VersionHistory)
 
 ## Features
 - Open-Access, 100% Free and No Ads
@@ -15,14 +15,14 @@ Version History: https://meshuggahtas.github.io/TASSS/TASSS/VersionHistory
 - Sharing and verifying knowledge
 - Preservation of TASes as a digital art form
 - Collecting and documenting all public information organized in a single place
-- https://www.city.ac.uk/research/support/integrity-and-ethics/ethics/principles
+- (https://www.city.ac.uk/research/support/integrity-and-ethics/ethics/principles)
 
 
 ## Guidelines
 - [Open Source Guide](https://opensource.guide/)
 
 ## Disclaimers
-- This repository is hosted on GitHub, therefore you are agreeing their terms when browsing it: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+- This repository is hosted on GitHub, therefore you are agreeing their terms when browsing it: (https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement)
 
 ### Physical and Mental Health
 - This project is not intended to be a substitute for professional medical advice and should not be relied on as health or personal advice.
@@ -40,4 +40,4 @@ Version History: https://meshuggahtas.github.io/TASSS/TASSS/VersionHistory
 ### Website links
 - Do not request links to any illegal or copyrighted content.
 
-Additional project information: https://meshuggahtas.github.io/TASSS/TASSS/ProjectInformation
+Additional project information: (https://meshuggahtas.github.io/TASSS/TASSS/ProjectInformation)
