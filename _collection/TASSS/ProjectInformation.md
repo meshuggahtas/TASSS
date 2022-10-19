@@ -3,13 +3,16 @@
 - qBittorrent
 
 ## Documenting and Files
-- Total Commander
-- Notepad++
+- Foxit PDF Reader
 - GitHub
 - Google Docs
 - Google Drive
 - Google Sheets
-- Chrome, Firefox
+- Google Chrome
+- Mozilla Firefox
+- Notepad++
+- SumatraPDF
+- Total Commander
 - Zotero
 
 # Website Links

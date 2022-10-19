@@ -1,3 +1,7 @@
+---
+title:  "Test title Dump"
+---
+
 - assembly ace strategy: jmp game ending routine
 
 # Research these
