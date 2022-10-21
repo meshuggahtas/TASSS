@@ -3,3 +3,4 @@ theme: jekyll-theme-leap-day
 collections:
   _collection:
     output: true
+    permalink: /:collection/:name
