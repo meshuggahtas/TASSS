@@ -1,6 +1,7 @@
 theme: jekyll-theme-leap-day
 
 collections:
+  collection_dir: _collection
   _collection:
     output: true
-    permalink: /:collection/:name
+    permalink: /:name
